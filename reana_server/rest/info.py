@@ -142,7 +142,8 @@ def info(user, **kwargs):  # noqa
                     "value": [
                         "kubernetes",
                         "htcondorcern",
-                        "slurmcern"
+                        "slurmcern",
+                        "compute4punch"
                     ]
                 },
                 "kubernetes_memory_limit": {
